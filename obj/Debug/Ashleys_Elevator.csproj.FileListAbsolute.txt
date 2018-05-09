@@ -1,0 +1,27 @@
+C:\Users\reda\Desktop\Elevator project\bin\Debug\Jacks_Elevator.exe.config
+C:\Users\reda\Desktop\Elevator project\bin\Debug\Jacks_Elevator.exe
+C:\Users\reda\Desktop\Elevator project\bin\Debug\Jacks_Elevator.pdb
+C:\Users\reda\Desktop\Elevator project\obj\Debug\Ashleys_Elevator.csprojResolveAssemblyReference.cache
+C:\Users\reda\Desktop\Elevator project\obj\Debug\AshleysElevator.Form1.resources
+C:\Users\reda\Desktop\Elevator project\obj\Debug\Jacks_Elevator.Properties.Resources.resources
+C:\Users\reda\Desktop\Elevator project\obj\Debug\Ashleys_Elevator.csproj.GenerateResource.Cache
+C:\Users\reda\Desktop\Elevator project\obj\Debug\Jacks_Elevator.exe
+C:\Users\reda\Desktop\Elevator project\obj\Debug\Jacks_Elevator.pdb
+C:\Users\reda\Desktop\Elevator project - Copy\bin\Debug\Jacks_Elevator.exe.config
+C:\Users\reda\Desktop\Elevator project - Copy\obj\Debug\Jacks_Elevator.exe
+C:\Users\reda\Desktop\Elevator project - Copy\obj\Debug\Jacks_Elevator.pdb
+C:\Users\reda\Desktop\Elevator project - Copy\bin\Debug\Jacks_Elevator.exe
+C:\Users\reda\Desktop\Elevator project - Copy\bin\Debug\Jacks_Elevator.pdb
+C:\Users\reda\Desktop\Elevator project - Copy\obj\Debug\Ashleys_Elevator.csprojResolveAssemblyReference.cache
+C:\Users\reda\Desktop\Elevator project - Copy\obj\Debug\AshleysElevator.Form1.resources
+C:\Users\reda\Desktop\Elevator project - Copy\obj\Debug\Jacks_Elevator.Properties.Resources.resources
+C:\Users\reda\Desktop\Elevator project - Copy\obj\Debug\Ashleys_Elevator.csproj.GenerateResource.Cache
+C:\Users\reda\Desktop\Ashleys Elevator\obj\Debug\Ashleys_Elevator.csprojResolveAssemblyReference.cache
+C:\Users\reda\Desktop\Ashleys Elevator\obj\Debug\AshleysElevator.Form1.resources
+C:\Users\reda\Desktop\Ashleys Elevator\obj\Debug\Ashleys_Elevator.csproj.GenerateResource.Cache
+C:\Users\reda\Desktop\Ashleys Elevator\bin\Debug\AshleysElevator.exe.config
+C:\Users\reda\Desktop\Ashleys Elevator\obj\Debug\AshleysElevator.Properties.Resources.resources
+C:\Users\reda\Desktop\Ashleys Elevator\bin\Debug\AshleysElevator.exe
+C:\Users\reda\Desktop\Ashleys Elevator\bin\Debug\AshleysElevator.pdb
+C:\Users\reda\Desktop\Ashleys Elevator\obj\Debug\AshleysElevator.exe
+C:\Users\reda\Desktop\Ashleys Elevator\obj\Debug\AshleysElevator.pdb

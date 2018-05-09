@@ -1,0 +1,46 @@
+C:\Users\haku\Desktop\テスト1\テスト1\bin\Debug\テスト1.exe.config
+C:\Users\haku\Desktop\テスト1\テスト1\bin\Debug\テスト1.exe
+C:\Users\haku\Desktop\テスト1\テスト1\bin\Debug\テスト1.pdb
+C:\Users\haku\Desktop\テスト1\テスト1\obj\Debug\テスト1.csprojResolveAssemblyReference.cache
+C:\Users\haku\Desktop\テスト1\テスト1\obj\Debug\テスト1.Form1.resources
+C:\Users\haku\Desktop\テスト1\テスト1\obj\Debug\テスト1.Properties.Resources.resources
+C:\Users\haku\Desktop\テスト1\テスト1\obj\Debug\テスト1.csproj.GenerateResource.Cache
+C:\Users\haku\Desktop\テスト1\テスト1\obj\Debug\テスト1.exe
+C:\Users\haku\Desktop\テスト1\テスト1\obj\Debug\テスト1.pdb
+E:\New folder\テスト1\テスト1\bin\Debug\テスト1.exe.config
+E:\New folder\テスト1\テスト1\obj\Debug\テスト1.exe
+E:\New folder\テスト1\テスト1\obj\Debug\テスト1.pdb
+E:\New folder\テスト1\テスト1\bin\Debug\テスト1.exe
+E:\New folder\テスト1\テスト1\bin\Debug\テスト1.pdb
+E:\New folder\テスト1\テスト1\obj\Debug\テスト1.csprojResolveAssemblyReference.cache
+E:\New folder\テスト1\テスト1\obj\Debug\テスト1.Form1.resources
+E:\New folder\テスト1\テスト1\obj\Debug\テスト1.Properties.Resources.resources
+E:\New folder\テスト1\テスト1\obj\Debug\テスト1.csproj.GenerateResource.Cache
+E:\New folder\テスト1\テスト1\obj\Debug\JackosElevator.Form1.resources
+E:\New folder\Jacks_Elevator\Jacks_Elevator\bin\Debug\Jacks_Elevator.exe.config
+E:\New folder\Jacks_Elevator\Jacks_Elevator\obj\Debug\Jacks_Elevator.exe
+E:\New folder\Jacks_Elevator\Jacks_Elevator\obj\Debug\Jacks_Elevator.pdb
+E:\New folder\Jacks_Elevator\Jacks_Elevator\bin\Debug\Jacks_Elevator.exe
+E:\New folder\Jacks_Elevator\Jacks_Elevator\bin\Debug\Jacks_Elevator.pdb
+E:\New folder\Jacks_Elevator\Jacks_Elevator\obj\Debug\Jacks_Elevator.csprojResolveAssemblyReference.cache
+E:\New folder\Jacks_Elevator\Jacks_Elevator\obj\Debug\Jacks_Elevator.Form1.resources
+E:\New folder\Jacks_Elevator\Jacks_Elevator\obj\Debug\Jacks_Elevator.Properties.Resources.resources
+E:\New folder\Jacks_Elevator\Jacks_Elevator\obj\Debug\Jacks_Elevator.csproj.GenerateResource.Cache
+C:\Users\JACK\Desktop\Jacks_Elevator\bin\Debug\Jacks_Elevator.exe.config
+C:\Users\JACK\Desktop\Jacks_Elevator\obj\Debug\Jacks_Elevator.exe
+C:\Users\JACK\Desktop\Jacks_Elevator\obj\Debug\Jacks_Elevator.pdb
+C:\Users\JACK\Desktop\Jacks_Elevator\bin\Debug\Jacks_Elevator.exe
+C:\Users\JACK\Desktop\Jacks_Elevator\bin\Debug\Jacks_Elevator.pdb
+C:\Users\JACK\Desktop\Jacks_Elevator\obj\Debug\Jacks_Elevator.csprojResolveAssemblyReference.cache
+C:\Users\JACK\Desktop\Jacks_Elevator\obj\Debug\Jacks_Elevator.Form1.resources
+C:\Users\JACK\Desktop\Jacks_Elevator\obj\Debug\Jacks_Elevator.Properties.Resources.resources
+C:\Users\JACK\Desktop\Jacks_Elevator\obj\Debug\Jacks_Elevator.csproj.GenerateResource.Cache
+C:\Users\reda\Desktop\Elevator project\bin\Debug\Jacks_Elevator.exe.config
+C:\Users\reda\Desktop\Elevator project\obj\Debug\Jacks_Elevator.exe
+C:\Users\reda\Desktop\Elevator project\obj\Debug\Jacks_Elevator.pdb
+C:\Users\reda\Desktop\Elevator project\bin\Debug\Jacks_Elevator.exe
+C:\Users\reda\Desktop\Elevator project\bin\Debug\Jacks_Elevator.pdb
+C:\Users\reda\Desktop\Elevator project\obj\Debug\Jacks_Elevator.csprojResolveAssemblyReference.cache
+C:\Users\reda\Desktop\Elevator project\obj\Debug\Jacks_Elevator.Form1.resources
+C:\Users\reda\Desktop\Elevator project\obj\Debug\Jacks_Elevator.Properties.Resources.resources
+C:\Users\reda\Desktop\Elevator project\obj\Debug\Jacks_Elevator.csproj.GenerateResource.Cache
